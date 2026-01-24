@@ -117,7 +117,7 @@
 "0Am-9a-jtM.title" = "Команды «Сжать содержимое папки…»";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
-"1TK-Zy-623.title" = "Переименовать распознанное расширение из вложенной папки";
+"1TK-Zy-623.title" = "Переименовывать системное расширение (напр.: .app, .pkg) в имени создаваемое подпапки";
 
 /* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
 "3cf-gN-q24.title" = "Показывать счетчик задач в Dock";
@@ -189,7 +189,7 @@
 "G1T-Qd-OZi.title" = "Приоритет задач (QoS):";
 
 /* Class = "NSButtonCell"; title = "Always use the lowest priority when running on battery"; ObjectID = "GJB-94-NHl"; */
-"GJB-94-NHl.title" = "Всегда использовать наименьший приоритет при работе от батареи";
+"GJB-94-NHl.title" = "Всегда использовать наименьший приоритет при работе от аккумулятора";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
 "Hkf-wB-gUj.title" = "Рекомендуется делать только одно сжатие за раз, если используется несколько потоков.";
@@ -327,7 +327,7 @@
 "otI-Pt-BTh.title" = "Операции с очередями:";
 
 /* Class = "NSTextFieldCell"; title = "Keep source extension:"; ObjectID = "p5F-63-ubE"; */
-"p5F-63-ubE.title" = "Сохранять исходное расширение:";
+"p5F-63-ubE.title" = "Сохранять исходное расширение файла в имени архива:";
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
 "pXT-7y-9af.title" = "Всегда распаковывать в подпапку";
